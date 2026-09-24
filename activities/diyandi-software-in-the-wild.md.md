@@ -1,7 +1,7 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** Gian Christian S. Bonilla 
-> **Section:** CS3A
+> **Name:** Gian Christian S. Bonilla  
+> **Section:** CS3A  
 > **Date submitted:** 2026-09-24
 
 ---
