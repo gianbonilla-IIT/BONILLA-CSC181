@@ -1,8 +1,8 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Write your full name]  
-> **Section:** [Write your section]  
-> **Date submitted:** [YYYY-MM-DD]
+> **Name:** Gian Christian S. Bonilla 
+> **Section:** CS3A
+> **Date submitted:** 2026-09-24
 
 ---
 
@@ -92,7 +92,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [x] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
@@ -114,4 +114,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** Gian Christian S. Bonilla
