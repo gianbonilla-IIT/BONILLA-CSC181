@@ -52,12 +52,10 @@ Ultimately, this solution will spoon-feed the information to the users, as long 
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. A user may be interested in the calendar of events and their locations for the Iligan Diyandi Festival. For this year's (2026), they did post a calendar of events in Iligan City's official Facebook page. However, some events lacked information, most notably, the time.
-
+1. A user may be interested in the calendar of events and their locations for the Iligan Diyandi Festival. For this year's (2026), they did post a calendar of events in Iligan City's official Facebook page. However, some events lacked information, most notably, the time. <br/><br/>
 The proposed website will just incorporate these calendar of activities along with other lacking information, in a more sensible format for users (focusing on mobile devices, but will not disregard desktop orientations). Additionally, the website will present interactable buttons that offers an event's date to be added to their calendar app. Moreover, the locations will be hyperlinked to Google Maps, so that the user will be conveniently directed to a more relevant app for location searching. Lastly, any relevant link to the event organizer's Facebook Page will also be incorporated.
 
-2. A food enthusiast user is interested in this one particular vendor stationed in the Mugna Fiesta Park. However, even with landmark locations given in their advertisement post in their Facebook page, it was still hard to comprehend where it actually is. Do note that Google Maps hyperlinks are useless in an enclosed and unexplored space.
-
+3. A food enthusiast user is interested in this one particular vendor stationed in the Mugna Fiesta Park. However, even with landmark locations given in their advertisement post in their Facebook page, it was still hard to comprehend where it actually is. Do note that Google Maps hyperlinks are useless in an enclosed and unexplored space. <br/><br/>
 Going back, with the help of the supposed support of the website, a map of the current Mugna will be dutifully pushed in the making. Then, with the assumption of its completion, it will be posted in relevant social media. Most importantly, it will also be used in the website as an interactable map that has Facebook hyperlinks over all registered vendors. Relevant traffic information will also be supplied in the map so that our food enthusiast will have confidence in their visit.
 
 ---
@@ -72,7 +70,7 @@ The website, in all its entirety, could be labeled as one **convenient** tool fo
 ### Quality 2: ACCESSIBLE
 
 **Why does this matter to users?**  
-A digital solution that only offers information should aim to also be **accessible**, as there is no use for such a system if it can not be easily accessible in the first place. Hence, it should be developed with the goal of being accessible in all platforms; with its priorities being mobile devices due to its higher usage population.
+A digital solution that only offers information should aim to also be **accessible**, as there is no use for such a system if it can not be easily accessible in the first place. Hence, it should be developed with the goal of being accessible in all platforms; with its priorities being mobile devices due to its higher usage population. Moreover, by being accessible, the website should be optimized so that it would only require the barest minimum of data, allowing users with limited data to confidently use the website.
 
 ---
 
