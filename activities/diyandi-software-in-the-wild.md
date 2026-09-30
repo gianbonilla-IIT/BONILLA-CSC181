@@ -82,7 +82,7 @@ If the inquiries related to the Diyandi Festival will decrease, then that would 
 
 ## 8. Screenshot or reference
 
-You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information:
+You may include **one screenshot** or reference image only if it does not contain personal, confidential, or sensitive information:  
 None
 
 <!-- Example Markdown image syntax:
