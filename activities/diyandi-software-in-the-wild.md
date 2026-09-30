@@ -8,35 +8,43 @@
 
 ## 1. User group
 
-**Who are you designing for?**  
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
+**Who are you designing for?**
+
+The target user group for my proposed digital system would be the participating **local residents** of the Iligan Diyandi Festival.  
 
 **Why might this group need support during Diyandi?**  
-[Briefly explain the group’s situation, goals, or needs.]
+
+During the month-long festival duration, the local residents that are interested in partaking in the events are in need for information.  
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+
+They need legitimate information about the event schedules, event locations, participating artists, present local vendors, and many more variables that contribute to the success of the festival. If the local residents are unsatisfied, then ultimately, the festival will be unsuccessful. 
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+
+In this day and age, information is easily accessible. However, there are still people that have difficulties finding the information they need. Moreover, the information they need may also be lacking in online presence. Even if the information exists, scouring and compiling every part of the internet (or notably, Facebook) is inconvenient, especially to novice digital users.  
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+
+By taking account of the previous ideas, I will propose a website that offers all the information they may need. It should be made as a website so that it can be easily accessible in all platforms, while also requiring a lower development effort compared to building dedicated apps in different platforms. The website should also embed existing tools (e.g. Google Maps, Facebook links, Google Calendar, etc.) for the convenience of the users.  
+  
+It is an idealistic proposal, but it will theoretically offer the most benefits to the local residents, and as a byproduct, will also benefit the entirety of the parties responsible for the success of the Diyandi Festival.  
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+
+Ultimately, this solution will spoon-feed the information to the users, as long as they know the website. Every aspect of the festival will be dutifully documented and added to the website, so that the information remains legitimate and up-to-date. No longer will users rely on the announcements the official city of Iligan will post on Facebook, but now they will only need this 1 website for any Diyandi festival concerns.  
 
 ---
 
@@ -44,32 +52,33 @@
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. A user may be interested in the calendar of events and their locations for the Iligan Diyandi Festival. For this year's (2026), they did post a calendar of events in Iligan City's official Facebook page. However, some events lacked information, most notably, the time.
+
+The proposed website will just incorporate these calendar of activities along with other lacking information, in a more sensible format for users (focusing on mobile devices, but will not disregard desktop orientations). Additionally, the website will present interactable buttons that offers an event's date to be added to their calendar app. Moreover, the locations will be hyperlinked to Google Maps, so that the user will be conveniently directed to a more relevant app for location searching. Lastly, any relevant link to the event organizer's Facebook Page will also be incorporated.
+
+2. A food enthusiast user is interested in this one particular vendor stationed in the Mugna Fiesta Park. However, even with landmark locations given in their advertisement post in their Facebook page, it was still hard to comprehend where it actually is. Do note that Google Maps hyperlinks are useless in an enclosed and unexplored space.
+
+Going back, with the help of the supposed support of the website, a map of the current Mugna will be dutifully pushed in the making. Then, with the assumption of its completion, it will be posted in relevant social media. Most importantly, it will also be used in the website as an interactable map that has Facebook hyperlinks over all registered vendors. Relevant traffic information will also be supplied in the map so that our food enthusiast will have confidence in their visit.
 
 ---
 
 ## 6. Important qualities
 
-Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
-
-### Quality 1: [Write a quality]
+### Quality 1: CONVENIENT
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+The website, in all its entirety, could be labeled as one **convenient** tool for only this one yearly purpose. A website dedicated to compile all relevant information is surely convenient. Convenience is key to convince users to use this website in the first place.
 
-### Quality 2: [Write a quality]
+### Quality 2: ACCESSIBLE
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+A digital solution that only offers information should aim to also be **accessible**, as there is no use for such a system if it can not be easily accessible in the first place. Hence, it should be developed with the goal of being accessible in all platforms; with its priorities being mobile devices due to its higher usage population.
 
 ---
 
 ## 7. How to tell whether the solution helped
 
-How could you determine whether your proposed solution actually helped users?
-
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+If the inquiries related to the Diyandi Festival will decrease, then that would indicate that the website would have fulfilled its purpose. This can be observed through a predicted decrease of inquiries coming from the City's page, event organizer's page, and other responsible parties.
 
 ---
 
@@ -84,7 +93,7 @@ You may include **one screenshot** or reference image only if it does not contai
 -->
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+None
 
 ---
 
