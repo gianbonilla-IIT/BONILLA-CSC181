@@ -11,7 +11,7 @@
 | [Full name] | [Username] | [Repository link] |
 | [Full name] | [Username] | [Repository link] |
 | [Full name] | [Username] | [Repository link] |
-| [Full name] | [Username] | [Repository link] |
+| Gian Christian S. Bonilla | gianbonilla-IIT | [Repository link](https://github.com/gianbonilla-IIT/BONILLA-CSC181) |
 
 <!-- Add rows for all members. -->
 
@@ -25,6 +25,12 @@ or an assumption.]
 |---|---|---|---|---|
 | [Name] | [Idea 1] | [Group] | [Approach] | [Basis] |
 | [Name] | [Idea 2] | [Group] | [Approach] | [Basis] |
+| [Name] | [Idea 3] | [Group] | [Approach] | [Basis] |
+| [Name] | [Idea 4] | [Group] | [Approach] | [Basis] |
+| [Name] | [Idea 5] | [Group] | [Approach] | [Basis] |
+| [Name] | [Idea 6] | [Group] | [Approach] | [Basis] |
+| Gian Christian S. Bonilla | [Idea 7] | [Group] | [Approach] | [Basis] |
+| Gian Christian S. Bonilla | [Idea 8] | [Group] | [Approach] | [Basis] |
 
 ## 2. Candidate Comparison and Selection
 
