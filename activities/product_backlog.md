@@ -318,7 +318,7 @@ Acceptance criteria:
 
 ### Use-case diagram
 
-\!\[Use-Case Diagram\](backlog-images/use-case-diagram.png) 
+![Use-Case Diagram\](backlog-images/use-case-diagram.png) 
 
 ### UC-01: Find an office and see where it is
 
